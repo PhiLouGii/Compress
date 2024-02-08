@@ -1,1 +1,2 @@
-Philippa Louise Giibwa
+Team Member: Philippa Louise Giibwa
+This program prompts the user to select the folder to compress, displays a list of available compressed file types, and prompts the user to select the desired compressed file type. It then creates a compressed file name based on the folder name and the current date, and compresses the folder using the selected compressed file type. Finally, it displays a message indicating the success or failure of the compression process.
